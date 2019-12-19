@@ -1,7 +1,6 @@
 # Lecture Demo - Abstract Classes
 
-* **Objective** - To demonstrate use of abstract classes and inheritance
-* **Purpose** - To gain familiarity with inheritance
+* **Objective** - To demonstrate use of generics, inner-classes, nested-classes, and enums
 
 ## Part 1 - Clone the project
 * Begin by _forking_ this project into a personal repository.
