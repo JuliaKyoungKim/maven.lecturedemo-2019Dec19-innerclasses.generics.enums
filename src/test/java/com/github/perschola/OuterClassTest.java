@@ -1,6 +1,6 @@
 package com.github.perschola;
 
-import com.github.perschola.varargs.OuterClass;
+import com.github.perschola.innerandnestedclasses.OuterClass;
 import org.junit.Test;
 
 /**

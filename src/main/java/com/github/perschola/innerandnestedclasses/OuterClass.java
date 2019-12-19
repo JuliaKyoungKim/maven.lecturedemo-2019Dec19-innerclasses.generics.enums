@@ -1,4 +1,4 @@
-package com.github.perschola.varargs;
+package com.github.perschola.innerandnestedclasses;
 
 /**
  * Created by leon on 12/19/2019.
